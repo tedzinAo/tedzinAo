@@ -1,7 +1,20 @@
- Teodoro Carlos Manuel Tomás é um dev back-end com um grande entusiasmo por criar soluções digitais práticas e eficientes. Meu objetivo é construir sistemas e APIs que atendem às necessidades dos usuários, sempre com foco em desempenho e escalabilidade.
+Sou Teodoro Tomás, um desenvolvedor back-end apaixonado por criar soluções digitais práticas e eficientes. Meu foco é construir sistemas e APIs que atendam às necessidades dos usuários, com desempenho, escalabilidade e integração de qualidade.
 
-Tenho experiência sólida com tecnologias como Node.js, MySQL, MongoDB e SQLite. Ao longo da minha jornada, já participei de vários projetos, desde APIs simples até sistemas mais complexos. Gosto de trabalhar tanto sozinho, quanto em equipe, sempre buscando entregar o melhor possível.
+Tenho experiência em tecnologias como Node.js, MySQL, MongoDB e SQLite, e ao longo dos meus projetos, busquei sempre entregar resultados que fazem a diferença, seja em APIs simples ou sistemas mais robustos. Gosto de trabalhar tanto de forma autônoma quanto em colaboração com equipes multidisciplinares, sempre com o objetivo de entregar o melhor produto possível.
 
-Além do meu trabalho com back-end, também tenho experiência em front-end com HTML, CSS, Bootstrap, Tailwind e JavaScript. Isso me ajuda a garantir uma integração suave entre o que o usuário vê e o que acontece por trás das cenas.
+Além disso, também tenho experiência com front-end, utilizando HTML, CSS, Bootstrap, Tailwind CSS e JavaScript. Essa vivência me permite criar soluções que integram bem tanto a interface quanto a parte técnica do sistema, oferecendo uma experiência mais fluida para o usuário.
 
-Sou apaixonado por aprender coisas novas e acompanhar as tendências do mercado, o que me ajuda a melhorar sempre. Acredito que um back-end bem estruturado é a chave para um produto de sucesso, e estou sempre aprimorando minhas habilidades para oferecer soluções práticas, escaláveis e fáceis de manter.
+Sempre busco aprender novas ferramentas e acompanhar as tendências do mercado, para garantir que meus projetos sejam não só eficientes, mas também inovadores e fáceis de manter.
+
+---
+
+**Tecnologias e Ferramentas:**
+- Node.js ![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo.svg)
+- MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/68/MySQL_logo.png)
+- MongoDB ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg)
+- SQLite ![SQLite](https://upload.wikimedia.org/wikipedia/commons/c/c7/SQLite370.svg)
+- HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
+- CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+- Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo.svg)
+- Tailwind CSS ![Tailwind](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+- JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
