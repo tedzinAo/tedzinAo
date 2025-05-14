@@ -3,11 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-      img{
-          width:200px;
-}
-  </style>
 </head>
 <body>
     <div class="container">
@@ -23,7 +18,7 @@
 </div>
         <h2>Tecnologias e Ferramentas</h2>
         <div class="tech-icons">
-            <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js"></a>
+            <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="100"></a>
             <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL"></a>
             <a href="https://www.mongodb.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" alt="MongoDB"></a>
             <a href="https://www.sqlite.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite"></a>
