@@ -28,8 +28,10 @@
             <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50"></a>
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" alt="JavaScript"></a>
         </div>
-    # Meus Projetos
-    -_Validador de Comprovativo mcx express: https://comprovativo-validador.vercel.app/
+    <h1>Meus Projetos</h1>
+    <ul>
+        <li>Validador de Comprovativo mcx express: <a href="https://comprovativo-validador.vercel.app" target="_blank">Acessar</a></li>
+    </ul>
     </div>
 </body>
 </html>
