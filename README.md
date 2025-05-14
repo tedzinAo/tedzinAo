@@ -19,7 +19,7 @@
 </div>
         <h2>Tecnologias e Ferramentas</h2>
         <div class="tech-icons">
-            <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo.svg" alt="Node.js"></a>
+            <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js"></a>
             <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MySQL_logo.png" alt="MySQL"></a>
             <a href="https://www.mongodb.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg" alt="MongoDB"></a>
             <a href="https://www.sqlite.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/SQLite370.svg" alt="SQLite"></a>
